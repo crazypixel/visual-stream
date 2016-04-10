@@ -17,7 +17,7 @@ Installation
  For the server part run **npm run server** ( now the stream is open )
  To run the application run **npm run dev** and go to :
 
- localhost:8080/saturn
+ localhost:8080/saturn or
  localhost:8080/globe
 
 To change the twitter terms - go to server.js
